@@ -1,26 +1,26 @@
-﻿Nummer,Bezirk,Fläche,Einwohner,Dichte,
-1,Altstadt-Lehel,3.15,20.860,6.631,
-2,Ludwigsvorstadt-Isarvorstadt,4.4,49.876,11.331,
-3,Maxvorstadt,4.3,51.945,12.085,
-4,Schwabing-West,4.36,68.254,15.643,
-5,Au-Haidhausen,4.22,63.583,15.067,
-6,Sendling,3.94,40.790,10.356,
-7,Sendling-Westpark,7.81,62.065,7.942,
-8,Schwanthalerhöhe,2.07,28.732,13.878,
-9,Neuhausen-Nymphenburg,12.91,100.396,7.774,
-10,Moosach,11.09,55.851,5.034,
-11,Milbertshofen-Am Hart,13.42,76.971,5.737,
-12,Schwabing-Freimann,25.67,76.986,2.999,
-13,Bogenhausen,23.71,94.337,3.978,
-14,Berg am Laim,6.32,47.037,7.448,
-15,Trudering-Riem,22.45,75.728,3.373,
-16,Ramersdorf-Perlach,19.9,120.085,6.035,
-17,Obergiesing-Fasangarten,5.72,53.795,9.403,
-18,Untergiesing-Harlaching,8.06,53.909,6.691,
-19,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,17.76,101.992,5.742,
-20,Hadern,9.22,51.446,5.578,
-21,Pasing-Obermenzing,16.5,81.246,4.925,
-22,Aubing-Lochhausen-Langwied,34.06,57.502,1.688,
-23,Allach-Untermenzing,15.45,35.918,2.325,
-24,Feldmoching-Hasenbergl,28.94,63.006,2.177,
-25,Laim,5.29,56.716,10.729,
+﻿Bezirk,Bezirksname,Fläche,Einwohner,Dichte
+1,Altstadt-Lehel,3.15,20.860,6.631
+2,Ludwigsvorstadt-Isarvorstadt,4.4,49.876,11.331
+3,Maxvorstadt,4.3,51.945,12.085
+4,Schwabing-West,4.36,68.254,15.643
+5,Au-Haidhausen,4.22,63.583,15.067
+6,Sendling,3.94,40.790,10.356
+7,Sendling-Westpark,7.81,62.065,7.942
+8,Schwanthalerhöhe,2.07,28.732,13.878
+9,Neuhausen-Nymphenburg,12.91,100.396,7.774
+10,Moosach,11.09,55.851,5.034
+11,Milbertshofen-Am Hart,13.42,76.971,5.737
+12,Schwabing-Freimann,25.67,76.986,2.999
+13,Bogenhausen,23.71,94.337,3.978
+14,Berg am Laim,6.32,47.037,7.448
+15,Trudering-Riem,22.45,75.728,3.373
+16,Ramersdorf-Perlach,19.9,120.085,6.035
+17,Obergiesing-Fasangarten,5.72,53.795,9.403
+18,Untergiesing-Harlaching,8.06,53.909,6.691
+19,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,17.76,101.992,5.742
+20,Hadern,9.22,51.446,5.578
+21,Pasing-Obermenzing,16.5,81.246,4.925
+22,Aubing-Lochhausen-Langwied,34.06,57.502,1.688
+23,Allach-Untermenzing,15.45,35.918,2.325
+24,Feldmoching-Hasenbergl,28.94,63.006,2.177
+25,Laim,5.29,56.716,10.729
