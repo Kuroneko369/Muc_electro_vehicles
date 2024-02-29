@@ -7,9 +7,9 @@
 ## Media Files ##
 *.tif
 *.tiff
-*.jpg
-*.jpeg
-*.png
+#.jpg
+#.jpeg
+#.png
 *.raw
 *.cr2
 *.mp3
