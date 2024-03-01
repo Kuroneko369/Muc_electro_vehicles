@@ -34,8 +34,8 @@
 *.gbr
 *.key
 *.pps
-*.ppt
-*.pptx
+#.ppt
+#.pptx
 *.sdf
 *.tax2010
 *.vcf
